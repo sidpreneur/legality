@@ -9,7 +9,7 @@ st.set_page_config(
     layout="wide"
 )
 
-# --- App Title ---
+# --- App Title ---0
 st.title("🩺 Law RAG Chatbot")
 st.caption("Powered by LangChain, Pinecone, and Hugging Face")
 
